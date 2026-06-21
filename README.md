@@ -1,6 +1,6 @@
-# 🐍 Belajar Python untuk Data Analyst
+# 🐍 Belajar Python dari nol
 
-Seri belajar Python dari nol, dirancang untuk pemula yang ingin menjadi **Data Analyst**.  
+Seri belajar Python dari nol, dirancang untuk pemula.
 Dibuat step-by-step dengan penjelasan dalam **Bahasa Indonesia**.
 
 ---
@@ -8,7 +8,7 @@ Dibuat step-by-step dengan penjelasan dalam **Bahasa Indonesia**.
 ## 🎯 Untuk Siapa?
 
 - Pemula yang belum pernah coding sama sekali
-- Kamu yang ingin berkarir sebagai Data Analyst
+- Kamu yang ingin belajar, dan
 - Siapapun yang mau belajar Python dengan cara praktis
 
 ---
@@ -48,7 +48,7 @@ jupyter lab
 ## 👤 Tentang Penulis
 
 **Mirwan Alkhatiri**  
-Sedang dalam perjalanan belajar Python untuk menjadi Data Analyst.  
+IT enthusiast yang senang berbagi dan juga terus belajar.  
 Seri ini dibuat sebagai dokumentasi belajar sekaligus berbagi ke sesama pemula.
 
 - GitHub: [@mirwan55](https://github.com/mirwan55)
